@@ -4,7 +4,7 @@ on:
   # 在每次推送到 `main` 分支時觸發部署
   # 如果你想要在其他分支上觸發部署，請將 `main` 替換成你想要的分支名稱
   push:
-    branches: [ main ]
+    branches: [ master ]
   # 允許你在 GitHub 上的 Actions 分頁中手動觸發此部署
   workflow_dispatch:
 
