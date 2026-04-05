@@ -1,7 +1,7 @@
 ---
 title: "Dragon City (DC) 新手入坑指南：从基础资源到战力培养"
 published: 2026-03-27
-description: 'Dragon City 新手攻略'
+description: 'Dragon City 新手超详细攻略'
 tags: ["Dragon City", "游戏攻略", "手游"]
 category: ''
 draft: false 
